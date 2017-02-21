@@ -1,0 +1,187 @@
+第1个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 3 1 1 1 1 3 |realPatrol = 40|fitness = 1.172474241569403
+
+第2个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 5 1 2 1 1 1 1 5 |realPatrol = 40|fitness = 1.0986501780285156
+
+第3个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 2 1 1 1 1 4 |realPatrol = 40|fitness = 1.1256316702808893
+
+第4个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 5 1 2 1 1 1 1 5 |realPatrol = 40|fitness = 1.1474155387966194
+
+第5个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 2 1 1 1 1 4 |realPatrol = 40|fitness = 1.143987527502219
+
+第6个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 1 1 1 1 1 5 |realPatrol = 40|fitness = 1.1378994642533464
+
+第7个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 1 1 1 1 1 5 |realPatrol = 40|fitness = 1.161027599000399
+
+第8个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 1 1 1 1 1 5 |realPatrol = 40|fitness = 1.1409549929743124
+
+第9个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 3 1 1 1 1 3 |realPatrol = 40|fitness = 1.1161465379574613
+
+第10个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 3 1 1 1 1 3 |realPatrol = 40|fitness = 1.137972175414303
+
+第11个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 3 1 1 1 1 3 |realPatrol = 40|fitness = 1.143942833316204
+
+第12个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 5 1 1 1 1 1 1 6 |realPatrol = 40|fitness = 1.1470178033329543
+
+第13个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 4 1 1 1 1 2 |realPatrol = 40|fitness = 1.1337885885376628
+
+第14个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 3 1 1 1 1 3 |realPatrol = 40|fitness = 1.1280040312475559
+
+第15个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 1 1 1 1 1 5 |realPatrol = 40|fitness = 1.1538589723722807
+
+第16个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 2 1 1 1 1 4 |realPatrol = 40|fitness = 1.120059910205752
+
+第17个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 3 1 1 1 1 3 |realPatrol = 40|fitness = 1.1493176046812668
+
+第18个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 2 1 1 1 1 4 |realPatrol = 40|fitness = 1.1180106360301532
+
+第19个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 3 1 1 1 1 3 |realPatrol = 40|fitness = 1.1346573286877286
+
+第20个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 4 1 1 1 1 2 |realPatrol = 40|fitness = 1.1294356285584493
+
+第21个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 1 1 1 1 1 5 |realPatrol = 40|fitness = 1.152160703417207
+
+第22个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 1 1 1 1 1 5 |realPatrol = 40|fitness = 1.1420298972705198
+
+第23个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 3 1 1 1 1 3 |realPatrol = 40|fitness = 1.1324232379493449
+
+第24个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 1 1 1 1 1 5 |realPatrol = 40|fitness = 1.1428908315033486
+
+第25个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 1 1 1 1 1 5 |realPatrol = 40|fitness = 1.1599578978883172
+
+第26个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 1 1 1 1 1 5 |realPatrol = 40|fitness = 1.13550436287772
+
+第27个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 2 1 1 1 1 4 |realPatrol = 40|fitness = 1.155705573219694
+
+第28个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 1 1 1 1 1 5 |realPatrol = 40|fitness = 1.1452992599499285
+
+第29个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 1 1 1 1 1 5 |realPatrol = 40|fitness = 1.1588199454758217
+
+第30个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 5 1 3 1 1 1 1 4 |realPatrol = 40|fitness = 1.135642265885768
+
+第31个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 3 1 1 1 1 3 |realPatrol = 40|fitness = 1.139908500682241
+
+第32个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 1 1 1 1 1 5 |realPatrol = 40|fitness = 1.160005481583866
+
+第33个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 3 1 1 1 1 3 |realPatrol = 40|fitness = 1.146878428075852
+
+第34个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 2 1 1 1 1 4 |realPatrol = 40|fitness = 1.1381330942809669
+
+第35个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 1 1 1 1 1 5 |realPatrol = 40|fitness = 1.1410289876089714
+
+第36个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 2 1 1 1 1 4 |realPatrol = 40|fitness = 1.147630595477117
+
+第37个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 3 1 1 1 1 3 |realPatrol = 40|fitness = 1.1730535977478942
+
+第38个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 2 1 1 1 1 4 |realPatrol = 40|fitness = 1.1480715314060532
+
+第39个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 2 1 1 1 1 4 |realPatrol = 40|fitness = 1.1391091442121712
+
+第40个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 2 1 1 1 1 4 |realPatrol = 40|fitness = 1.1373388193130047
+
+第41个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 1 1 1 1 1 5 |realPatrol = 40|fitness = 1.1555267072973525
+
+第42个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 3 1 1 1 1 3 |realPatrol = 40|fitness = 1.1338080482142632
+
+第43个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 5 1 3 1 1 1 1 4 |realPatrol = 40|fitness = 1.1197724164899927
+
+第44个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 4 1 1 1 1 2 |realPatrol = 40|fitness = 1.137298115758116
+
+第45个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 2 1 1 1 1 4 |realPatrol = 40|fitness = 1.135388518188272
+
+第46个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 3 1 1 1 1 3 |realPatrol = 40|fitness = 1.1443127769236117
+
+第47个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 2 1 1 1 1 4 |realPatrol = 40|fitness = 1.1282034399146654
+
+第48个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 1 1 1 1 1 5 |realPatrol = 40|fitness = 1.1318084790374248
+
+第49个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 2 1 1 1 1 4 |realPatrol = 40|fitness = 1.12239417045905
+
+第50个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 1 1 1 1 1 5 |realPatrol = 40|fitness = 1.1665252954902405
+
+第51个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 1 1 1 1 1 5 |realPatrol = 40|fitness = 1.135460824709422
+
+第52个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 1 1 1 1 1 5 |realPatrol = 40|fitness = 1.1659562711276499
+
+第53个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 3 1 1 1 1 3 |realPatrol = 40|fitness = 1.1393959517317882
+
+第54个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 2 1 1 1 1 4 |realPatrol = 40|fitness = 1.1331272557816578
+
+第55个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 1 1 1 1 1 5 |realPatrol = 40|fitness = 1.1467620212386938
+
+第56个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 2 1 1 1 1 4 |realPatrol = 40|fitness = 1.142827546513438
+
+第57个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 1 1 1 1 1 5 |realPatrol = 40|fitness = 1.1413055798408696
+
+第58个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 3 1 1 1 1 3 |realPatrol = 40|fitness = 1.147051348727512
+
+第59个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 3 1 1 1 1 3 |realPatrol = 40|fitness = 1.1348105742196772
+
+第60个BestWave: 
+1 6 1 1 1 1 |1 1 1 6 1 1 1 5 1 1 1 1 1 1 6 |realPatrol = 40|fitness = 1.1338317399051714
+
+最优解的最大适应度：1.1730535977478942
+最优解的最小适应度：1.0986501780285156
+最优解的平均适应度：1.1411235416690357
+估计标准差值：0.013877024246686258
+最优解的最佳分配：
+1 6 1 1 1 1 |1 1 1 6 1 1 1 6 1 3 1 1 1 1 3 |40|realPatrol = 40
+PWWO算法运行求解巡逻调度问题耗时：0小时，0分钟，13秒
