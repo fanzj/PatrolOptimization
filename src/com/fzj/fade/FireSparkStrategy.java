@@ -429,9 +429,6 @@ public class FireSparkStrategy extends Strategy {
 			 }
 		}
 		
-		
-
-		
 		String result = printBest(p);
 		FileUtils.saveResult(result, TYPE_NAME, RESULT_NAME, FileUtils.RESULT_PATH, PATH);
 	}
